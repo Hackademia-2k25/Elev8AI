@@ -1,3 +1,5 @@
+# Hackademia 2K25 
+
 # Elev8AI
 
 # Problem Statement
@@ -85,3 +87,46 @@ Employs OpenCV to detect hand gestures and sign language in real-time via camera
 - Nextjs
 - Typescript
 - ShadCN
+## Acknowledgements  
+
+We extend our heartfelt gratitude to everyone who contributed to the development of this project. A special thanks to **NIT Andhra** for organizing events and providing unwavering support throughout the process.  
+
+### Contributors  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+
+  <div>
+    <a href="https://github.com/Srijansarkar17">
+      <img src="https://github.com/Srijansarkar17.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #ccc;">
+    </a>
+    <br>
+    <strong>Srijan Sarkar</strong>
+  </div>
+  <div>
+    <a href="https://github.com/Adityapratapsingh28">
+      <img src="https://github.com/Adityapratapsingh28.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #ccc;">
+    </a>
+    <br>
+    <strong>Aditya Pratap Singh</strong>
+  </div>
+
+  <div>
+    <a href="https://github.com/kantinilesh">
+      <img src="https://github.com/kantinilesh.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #ccc;">
+    </a>
+    <br>
+    <strong>Nilesh Kanti</strong>
+  </div>
+
+  <div>
+    <a href="https://github.com/VedantSinngh">
+      <img src="https://github.com/VedantSinngh.png" width="80" height="80" style="border-radius: 50%; border: 2px solid #ccc;">
+    </a>
+    <br>
+    <strong>Vedant Singh</strong>
+  </div>
+
+  
+
+</div>
+
+
